@@ -1,4 +1,4 @@
-## Oláá, sou o Garion e sejam bem-vindos ao meu perfil GitHUB!! 😁🧭🛰️<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/47fe66b8-f214-442e-8cfc-8a3c6d66266e" />
+## Oláá, sou o Garion e sejam bem-vindos ao meu perfil GitHUB!! 😁🧭🛰️
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
